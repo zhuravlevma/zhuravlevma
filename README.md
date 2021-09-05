@@ -1,7 +1,3 @@
-👯 2 years in MTS IT
-
-I am developer in X5 Foodtech at the moment
-
 Frontend:
   React/Vue
  
@@ -9,7 +5,7 @@ Backend:
   NodeJS, NestJS
 
 Languages:
-  Javascript, Typescript, Python, C++
+  Javascript, Typescript, Rust, Python, C++
 
 <!--
 **zhuravlevma/zhuravlevma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
