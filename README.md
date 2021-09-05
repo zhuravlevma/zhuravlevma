@@ -1,23 +1,8 @@
-Frontend:
-  React/Vue
- 
-Backend:
-  NodeJS, NestJS
-
-Languages:
-  Javascript, Typescript, Rust, Python, C++
-
-<!--
-**zhuravlevma/zhuravlevma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on NestJS solical network
+- 🌱 I’m currently learning Highload Architecture, NestJS, Rust, English
+- 👯 I’m looking to collaborate on Metarhia
+- 🤔 I’m looking for help with Highload Architecture
+- 💬 Ask me about Javascript, Databases, Node.js, Typescript, NestJS, Rust, Frontend
+- 📫 How to reach me: https://t.me/Hdhrer4
+- 😄 Pronouns: Maksim
+- ⚡ Fun fact: I'm 21. I live in Moscow
