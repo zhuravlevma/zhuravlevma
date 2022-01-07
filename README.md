@@ -4,5 +4,7 @@
 
 ### Skills
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white" />
+  <a href="https://www.rust-lang.org/" target="_blank">
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white" />
+  </a>
 </p>
