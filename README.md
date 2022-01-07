@@ -5,12 +5,12 @@
 ### Experience work
 <p>
   <a href="https://github.com/adeo" target="_blank">
-      <img alt="LeroyMerlin" src="https://img.shields.io/badge/-LeroyMerlin-green?style=flat-square&logo=adeo&logoColor=white" />
+      <img alt="LeroyMerlin" src="https://img.shields.io/badge/-LeroyMerlin-43853d?style=flat-square&logo=adeo&logoColor=white" />
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="X5 Group" src="https://img.shields.io/badge/-X5%20Group-green?style=flat-square&logo=x5&logoColor=white" />
+  <a href="https://x5.ru/ru/" target="_blank">
+    <img alt="X5 Group" src="https://img.shields.io/badge/-X5%20Group-43853d?style=flat-square&logo=x5&logoColor=white" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://moskva.mts.ru/personal" target="_blank">
     <img alt="MTS" src="https://img.shields.io/badge/-MTS-red?style=flat-square&logoColor=white" />
   </a>
 </p>
