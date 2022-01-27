@@ -1,11 +1,7 @@
-<video controls autoplay>
-  <source src="https://user-images.githubusercontent.com/44276887/151452155-be80e8d4-ecbd-4488-a2ee-d6a1aeb51a7a.mp4" type="video/mp4">
-</video>
-
-
 🔭 I’m currently learning Rust and Highload Architecture. I’m looking to collaborate on Metarhia.
 
 ### Experience work
+<img src="https://user-images.githubusercontent.com/44276887/151453653-946b3643-4a5b-4acb-829b-aabe6c6a16ce.gif" width="300" height="200" />
 <p>
   <a href="https://github.com/adeo" target="_blank">
       <img alt="LeroyMerlin" src="https://img.shields.io/badge/-LeroyMerlin-43853d?style=flat-square&logo=adeo&logoColor=white" />
