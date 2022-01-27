@@ -1,7 +1,8 @@
 🔭 I’m currently learning Rust and Highload Architecture. I’m looking to collaborate on Metarhia.
 
 ### Experience work
-<img src="https://user-images.githubusercontent.com/44276887/151453653-946b3643-4a5b-4acb-829b-aabe6c6a16ce.gif" width="300" height="200" />
+<img src="https://user-images.githubusercontent.com/44276887/151454554-0f53326c-45b6-49f6-bcc3-0de339631f55.gif" width="300" height="200" />
+
 <p>
   <a href="https://github.com/adeo" target="_blank">
       <img alt="LeroyMerlin" src="https://img.shields.io/badge/-LeroyMerlin-43853d?style=flat-square&logo=adeo&logoColor=white" />
