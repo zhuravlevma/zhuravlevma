@@ -1,5 +1,11 @@
 
 
+
+
+https://user-images.githubusercontent.com/44276887/151452155-be80e8d4-ecbd-4488-a2ee-d6a1aeb51a7a.mp4
+
+
+
 🔭 I’m currently learning Rust and Highload Architecture. I’m looking to collaborate on Metarhia.
 
 ### Experience work
