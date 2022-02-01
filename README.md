@@ -1,6 +1,6 @@
 🔭 I’m currently learning Rust and Highload Architecture
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuravlevma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuravlevma&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Experience work
