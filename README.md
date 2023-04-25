@@ -4,8 +4,6 @@
 
 
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuravlevma&theme=solarized)
-
 
 ### Experience work
 <p>
@@ -22,6 +20,9 @@
     <img alt="MTS" src="https://img.shields.io/badge/-MTS-red?style=flat-square&logoColor=white" />
   </a>
 </p>
+
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuravlevma&theme=solarized)
 
 ### Skills
 <p>
