@@ -1,5 +1,9 @@
 🔭 I’m currently learning Rust and Highload Architecture
 
+![Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuravlevma&theme=solarized)
+
+
+
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuravlevma&theme=solarized)
 
 
