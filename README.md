@@ -6,6 +6,9 @@
 ### Experience work
 <p>
   <a href="https://github.com/adeo" target="_blank">
+      <img alt="Tinkoff" src="https://img.shields.io/badge/-Tinkoff-yellow" />
+  </a>
+  <a href="https://github.com/adeo" target="_blank">
       <img alt="LeroyMerlin" src="https://img.shields.io/badge/-LeroyMerlin-43853d?style=flat-square&logo=adeo&logoColor=white" />
   </a>
   <a href="https://x5.ru/ru/" target="_blank">
