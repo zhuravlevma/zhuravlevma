@@ -1,4 +1,4 @@
-🔭 I’m currently learning Rust and Highload Architecture
+🔭 I’m currently learning Blockchain
 
 ![Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuravlevma&theme=solarized)
 
